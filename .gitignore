@@ -1,0 +1,9 @@
+# Ignore node modules
+node_modules/
+
+# Ignore React build files
+build/
+dist/
+
+# Ignore zip files
+*.zip
